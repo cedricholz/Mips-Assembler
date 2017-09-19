@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="proj2_1_aeq_afo"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/cygdrive/c/Users/Cedric/Desktop/Code Projects/#C MIPS Assembler/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Cedric/Desktop/Code\ Projects/#C\ MIPS\ Assembler/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Cedric/Desktop/Code\ Projects/#C\ MIPS\ Assembler/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Cedric/Desktop/Code\ Projects/#C\ MIPS\ Assembler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Cedric/Desktop/Code\ Projects/#C\ MIPS\ Assembler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/cygdrive/c/Users/Cedric/Desktop/Code Projects/#C MIPS Assembler/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Cedric/Desktop/Code\ Projects/#C\ MIPS\ Assembler/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Cedric/Desktop/Code\ Projects/#C\ MIPS\ Assembler/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Cedric/Desktop/Code\ Projects/#C\ MIPS\ Assembler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Cedric/Desktop/Code\ Projects/#C\ MIPS\ Assembler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/cygdrive/c/Users/Cedric/Desktop/Code Projects/#C MIPS Assembler/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Cedric/Desktop/Code\ Projects/#C\ MIPS\ Assembler/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Cedric/Desktop/Code\ Projects/#C\ MIPS\ Assembler/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Cedric/Desktop/Code\ Projects/#C\ MIPS\ Assembler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Cedric/Desktop/Code\ Projects/#C\ MIPS\ Assembler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="proj2_1_aeq_afo">
+				<Option output="/cygdrive/c/Users/Cedric/Desktop/Code Projects/#C MIPS Assembler/cmake-build-debug/proj2_1_aeq_afo.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/Cedric/Desktop/Code Projects/#C MIPS Assembler/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.3.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.3.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.3.0/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.3.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Cedric/Desktop/Code\ Projects/#C\ MIPS\ Assembler/cmake-build-debug/Makefile&quot;  VERBOSE=1 proj2_1_aeq_afo"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Cedric/Desktop/Code\ Projects/#C\ MIPS\ Assembler/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Cedric/Desktop/Code\ Projects/#C\ MIPS\ Assembler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Cedric/Desktop/Code\ Projects/#C\ MIPS\ Assembler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="proj2_1_aeq_afo/fast">
+				<Option output="/cygdrive/c/Users/Cedric/Desktop/Code Projects/#C MIPS Assembler/cmake-build-debug/proj2_1_aeq_afo.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/Cedric/Desktop/Code Projects/#C MIPS Assembler/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.3.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.3.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.3.0/include/c++/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.3.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.3.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Cedric/Desktop/Code\ Projects/#C\ MIPS\ Assembler/cmake-build-debug/Makefile&quot;  VERBOSE=1 proj2_1_aeq_afo/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Cedric/Desktop/Code\ Projects/#C\ MIPS\ Assembler/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Cedric/Desktop/Code\ Projects/#C\ MIPS\ Assembler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/c/Users/Cedric/Desktop/Code\ Projects/#C\ MIPS\ Assembler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/cygdrive/c/Users/Cedric/Desktop/Code Projects/#C MIPS Assembler/Makefile">
+			<Option target="proj2_1_aeq_afo"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Cedric/Desktop/Code Projects/#C MIPS Assembler/assembler.c">
+			<Option target="proj2_1_aeq_afo"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Cedric/Desktop/Code Projects/#C MIPS Assembler/assembler.h">
+			<Option target="proj2_1_aeq_afo"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Cedric/Desktop/Code Projects/#C MIPS Assembler/input/combined.s">
+			<Option target="proj2_1_aeq_afo"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Cedric/Desktop/Code Projects/#C MIPS Assembler/input/comments.s">
+			<Option target="proj2_1_aeq_afo"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Cedric/Desktop/Code Projects/#C MIPS Assembler/input/imm.s">
+			<Option target="proj2_1_aeq_afo"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Cedric/Desktop/Code Projects/#C MIPS Assembler/input/jumps.s">
+			<Option target="proj2_1_aeq_afo"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Cedric/Desktop/Code Projects/#C MIPS Assembler/input/labels.s">
+			<Option target="proj2_1_aeq_afo"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Cedric/Desktop/Code Projects/#C MIPS Assembler/input/p1_errors.s">
+			<Option target="proj2_1_aeq_afo"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Cedric/Desktop/Code Projects/#C MIPS Assembler/input/p2_errors.s">
+			<Option target="proj2_1_aeq_afo"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Cedric/Desktop/Code Projects/#C MIPS Assembler/input/pseudo.s">
+			<Option target="proj2_1_aeq_afo"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Cedric/Desktop/Code Projects/#C MIPS Assembler/input/pseudo_2.s">
+			<Option target="proj2_1_aeq_afo"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Cedric/Desktop/Code Projects/#C MIPS Assembler/input/rtypes.s">
+			<Option target="proj2_1_aeq_afo"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Cedric/Desktop/Code Projects/#C MIPS Assembler/input/simple.s">
+			<Option target="proj2_1_aeq_afo"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Cedric/Desktop/Code Projects/#C MIPS Assembler/log/ref/p1_errors_ref.txt">
+			<Option target="proj2_1_aeq_afo"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Cedric/Desktop/Code Projects/#C MIPS Assembler/log/ref/p2_errors_ref.txt">
+			<Option target="proj2_1_aeq_afo"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Cedric/Desktop/Code Projects/#C MIPS Assembler/out/ref/combined_ref.int">
+			<Option target="proj2_1_aeq_afo"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Cedric/Desktop/Code Projects/#C MIPS Assembler/out/ref/combined_ref.out">
+			<Option target="proj2_1_aeq_afo"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Cedric/Desktop/Code Projects/#C MIPS Assembler/out/ref/comments_ref.int">
+			<Option target="proj2_1_aeq_afo"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Cedric/Desktop/Code Projects/#C MIPS Assembler/out/ref/comments_ref.out">
+			<Option target="proj2_1_aeq_afo"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Cedric/Desktop/Code Projects/#C MIPS Assembler/out/ref/imm_ref.int">
+			<Option target="proj2_1_aeq_afo"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Cedric/Desktop/Code Projects/#C MIPS Assembler/out/ref/imm_ref.out">
+			<Option target="proj2_1_aeq_afo"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Cedric/Desktop/Code Projects/#C MIPS Assembler/out/ref/jumps_ref.int">
+			<Option target="proj2_1_aeq_afo"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Cedric/Desktop/Code Projects/#C MIPS Assembler/out/ref/jumps_ref.out">
+			<Option target="proj2_1_aeq_afo"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Cedric/Desktop/Code Projects/#C MIPS Assembler/out/ref/labels_ref.int">
+			<Option target="proj2_1_aeq_afo"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Cedric/Desktop/Code Projects/#C MIPS Assembler/out/ref/labels_ref.out">
+			<Option target="proj2_1_aeq_afo"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Cedric/Desktop/Code Projects/#C MIPS Assembler/out/ref/p1_errors_ref.int">
+			<Option target="proj2_1_aeq_afo"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Cedric/Desktop/Code Projects/#C MIPS Assembler/out/ref/p1_errors_ref.out">
+			<Option target="proj2_1_aeq_afo"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Cedric/Desktop/Code Projects/#C MIPS Assembler/out/ref/p2_errors_ref.int">
+			<Option target="proj2_1_aeq_afo"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Cedric/Desktop/Code Projects/#C MIPS Assembler/out/ref/p2_errors_ref.out">
+			<Option target="proj2_1_aeq_afo"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Cedric/Desktop/Code Projects/#C MIPS Assembler/out/ref/pseudo_2_ref.int">
+			<Option target="proj2_1_aeq_afo"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Cedric/Desktop/Code Projects/#C MIPS Assembler/out/ref/pseudo_2_ref.out">
+			<Option target="proj2_1_aeq_afo"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Cedric/Desktop/Code Projects/#C MIPS Assembler/out/ref/pseudo_ref.int">
+			<Option target="proj2_1_aeq_afo"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Cedric/Desktop/Code Projects/#C MIPS Assembler/out/ref/pseudo_ref.out">
+			<Option target="proj2_1_aeq_afo"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Cedric/Desktop/Code Projects/#C MIPS Assembler/out/ref/rtypes_ref.int">
+			<Option target="proj2_1_aeq_afo"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Cedric/Desktop/Code Projects/#C MIPS Assembler/out/ref/rtypes_ref.out">
+			<Option target="proj2_1_aeq_afo"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Cedric/Desktop/Code Projects/#C MIPS Assembler/out/ref/simple_ref.int">
+			<Option target="proj2_1_aeq_afo"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Cedric/Desktop/Code Projects/#C MIPS Assembler/out/ref/simple_ref.out">
+			<Option target="proj2_1_aeq_afo"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Cedric/Desktop/Code Projects/#C MIPS Assembler/run-valgrind">
+			<Option target="proj2_1_aeq_afo"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Cedric/Desktop/Code Projects/#C MIPS Assembler/src/tables.c">
+			<Option target="proj2_1_aeq_afo"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Cedric/Desktop/Code Projects/#C MIPS Assembler/src/tables.h">
+			<Option target="proj2_1_aeq_afo"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Cedric/Desktop/Code Projects/#C MIPS Assembler/src/translate.c">
+			<Option target="proj2_1_aeq_afo"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Cedric/Desktop/Code Projects/#C MIPS Assembler/src/translate.h">
+			<Option target="proj2_1_aeq_afo"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Cedric/Desktop/Code Projects/#C MIPS Assembler/src/translate_utils.c">
+			<Option target="proj2_1_aeq_afo"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Cedric/Desktop/Code Projects/#C MIPS Assembler/src/translate_utils.h">
+			<Option target="proj2_1_aeq_afo"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Cedric/Desktop/Code Projects/#C MIPS Assembler/src/utils.c">
+			<Option target="proj2_1_aeq_afo"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Cedric/Desktop/Code Projects/#C MIPS Assembler/src/utils.h">
+			<Option target="proj2_1_aeq_afo"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Cedric/Desktop/Code Projects/#C MIPS Assembler/test_assembler.c">
+			<Option target="proj2_1_aeq_afo"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Cedric/Desktop/Code Projects/#C MIPS Assembler/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
